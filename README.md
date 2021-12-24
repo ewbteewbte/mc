@@ -1,2 +1,2 @@
-# mc
-minecraft optifine + complementary shaders settings
+# minecraft optifine + complementary shaders settings
+
