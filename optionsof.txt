@@ -1,4 +1,4 @@
-ofFogType:2
+ofFogType:3
 ofFogStart:0.8
 ofMipmapType:0
 ofOcclusionFancy:false
@@ -7,8 +7,8 @@ ofSmoothWorld:true
 ofAoLevel:1.0
 ofClouds:3
 ofCloudsHeight:0.0
-ofTrees:2
-ofRain:2
+ofTrees:1
+ofRain:1
 ofAnimatedWater:0
 ofAnimatedLava:0
 ofAnimatedFire:true
@@ -29,8 +29,8 @@ ofRainSplash:true
 ofLagometer:false
 ofShowFps:false
 ofAutoSaveTicks:3600
-ofBetterGrass:2
-ofConnectedTextures:2
+ofBetterGrass:1
+ofConnectedTextures:1
 ofWeather:true
 ofSky:true
 ofStars:true
