@@ -1,4 +1,4 @@
-#Sat Dec 25 06:11:17 GMT 2021
+#Sat Dec 25 09:22:57 GMT 2021
 handDepthMul=0.125
 TexMinFilB=0
 oldLighting=default
@@ -11,7 +11,7 @@ TexMinFilN=0
 specularMapEnabled=true
 normalMapEnabled=true
 renderResMul=0.5
-oldHandLight=false
+oldHandLight=default
 TexMinFilS=0
 shadowResMul=1.0
 shadowClipFrustrum=true
