@@ -1,5 +1,5 @@
-#Fri Dec 24 05:35:08 GMT 2021
-handDepthMul=0.0625
+#Sat Dec 25 05:43:33 GMT 2021
+handDepthMul=0.25
 TexMinFilB=0
 oldLighting=default
 TexMagFilN=0
