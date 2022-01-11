@@ -1,10 +1,10 @@
-ofFogType:2
+ofFogType:3
 ofFogStart:0.8
 ofMipmapType:0
 ofOcclusionFancy:false
 ofSmoothFps:true
 ofSmoothWorld:true
-ofAoLevel:0.5056338028169015
+ofAoLevel:0.0
 ofClouds:0
 ofCloudsHeight:0.0
 ofTrees:0
