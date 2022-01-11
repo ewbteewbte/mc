@@ -1,4 +1,4 @@
-#Sat Jan 08 10:50:15 MSK 2022
+#Tue Jan 11 12:58:59 MSK 2022
 handDepthMul=0.125
 TexMinFilB=0
 oldLighting=default
