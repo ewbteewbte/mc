@@ -1,1 +1,1 @@
-minecraft settings for optifine and complementary shaders
+settings for optifine and complementary shaders
