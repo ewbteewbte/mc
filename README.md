@@ -1,1 +1,1 @@
-settings for optifine and complementary shaders
+performance focused settings for optifine and complementary shaders
