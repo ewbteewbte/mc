@@ -1,1 +1,1 @@
-performance focused settings for optifine and complementary shaders
+two little mods, easy to adjust for current version
